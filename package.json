@@ -1,0 +1,15 @@
+{
+  "name": "songwon-safety-system",
+  "version": "1.0.0",
+  "description": "Song Won Envichem Safety System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
